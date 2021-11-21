@@ -325,7 +325,7 @@ background:none;
 
 .services .title::after,
 .mywork .title::after {
-    content:"What i provide";
+    content:"What I provide";
     background:#111;
 }
 .services .title::before,

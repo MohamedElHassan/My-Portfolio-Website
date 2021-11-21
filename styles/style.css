@@ -15,9 +15,7 @@ html{
     padding: 0 80px;
     margin:auto;
 }
-body{
-    height:3000px
-}
+
 .whatsapp {
     position: fixed;
     text-align:center;
@@ -621,6 +619,7 @@ background:none;
     padding:25px 35px;
     text-align:center;
     transition:all 0.3s ease;
+    height: 351px;
 }
 .mywork .carousel .card:hover {
     background:crimson;

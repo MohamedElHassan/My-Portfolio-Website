@@ -40,6 +40,9 @@ html{
     pointer-events: auto;
     left:25px;
 }
+.whatsapp:hover {
+    transform: scale(1.14);
+}
 /* End General settings */
 
 
